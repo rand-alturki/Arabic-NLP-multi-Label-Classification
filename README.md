@@ -55,16 +55,6 @@ This project assigns up to four pragmatic labels from nine categories to each Ar
 pip install transformers datasets scikit-learn torch
 ```
 
-## Usage
-
-Open and run `AdabEval_taskB.ipynb` in Jupyter or Google Colab. The notebook covers the full pipeline from data loading to ensemble prediction.
-
-```bash
-jupyter notebook AdabEval_taskB.ipynb
-```
-
-A GPU (e.g., Google Colab T4) is recommended for transformer fine-tuning (~30 min per model).
-
 ## Citation
 
 If you use this work, please cite:
