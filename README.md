@@ -1,6 +1,8 @@
 # Multi-Label Classification of Arabic Politeness Criteria in Social Media
 
 A multi-label text classification system for detecting politeness and impoliteness criteria in Arabic social media posts, developed for **Subtask B of the AdabEval 2026 Shared Task**.
+The full papare is available at :[OSACT7](http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/2026.osact-1.0.pdf), page 185
+
 
 ## Overview
 
